@@ -34,7 +34,7 @@
                 <div class="grid__column-75">
                     <!-- <div class="grid"> -->
                     <table class="table-list-QL table-list-QL-list" cellspacing="0" cellpadding="0">
-                        <caption>DANH SÁCH QUẢN LÝ LOẠI SÁCH</caption>
+                        <caption>DANH SÁCH QUẢN LÝ LOẠI SẢN PHẨM MIXISHOP</caption>
                         <tr class="list-items">
                             <th class="items-text">MÃ SẢN PHẨM</th>
                             <th class="items-text">MÃ THỂ LOẠI</th>
